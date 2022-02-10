@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Bugi Sulistyo, a student of Mulawarman university with Informatics as major
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Java and Dart programming language
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning and Internet of Things
+- 💞️ I’m looking to collaborate on Web Development Project and Data Science Project
 - 📫 How to reach me ...
 
 <!---
