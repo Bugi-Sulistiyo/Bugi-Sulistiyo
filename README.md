@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bugi Sulistiyo</h1>
-<h3 align="center">Fresh graduate in Informatics with a strong passion for machine learning and data analysis. Driven by high curiosity and proven leadership</h3>
+<h3 align="center">Data professional specializing in machine learning, data analysis, and computer vision. Skilled in building data-driven solutions, uncovering insights through analytics, and developing intelligent systems. Passionate about leveraging data to solve real-world problems and continuously advancing expertise in the field.</h3>
 
 - 🏢 Data Analyst | Data Scientist | ML Engineer  
 - 📫 How to reach me **bugisulistiyo@gmail.com**
