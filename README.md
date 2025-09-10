@@ -5,7 +5,7 @@
 - 📫 How to reach me **bugisulistiyo@gmail.com**
 
 ## 🌐 Socials & Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=google-chrome&logoColor=white)](https://www.bugisulistiyo.com)  
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=google-chrome&logoColor=white)](https://www.bugisulistiyo.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bugi-sulistiyo)  
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/bugi-sulistiyo)  
 
